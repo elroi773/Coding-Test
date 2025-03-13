@@ -1,10 +1,10 @@
 # [level 0] n보다 커질 때까지 더하기 - 181884 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181884) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181884?language=javascript) 
 
 ### 성능 요약
 
-메모리: 85.8 MB, 시간: 0.04 ms
+메모리: 33.4 MB, 시간: 0.15 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 01일 22:56:34
+2025년 03월 13일 22:40:49
 
 ### 문제 설명
 
@@ -61,7 +61,8 @@
 <p>입출력 예 #1</p>
 
 <ul>
-<li><p>예제 1번의 <code>numbers</code>를 문제 설명대로 더해가는 과정을 나타내면 다음의 표와 같습니다.</p>
+<li>예제 1번의 <code>numbers</code>를 문제 설명대로 더해가는 과정을 나타내면 다음의 표와 같습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>i</th>
@@ -95,9 +96,10 @@
 <td>139</td>
 </tr>
 </tbody>
-      </table>
-<p>29를 더한 뒤에 sum 값은 139이고 <code>n</code> 값인 123보다 크므로 139를 return 합니다.</p></li>
-<li><p>예제 2번의 <code>numbers</code>의 마지막 원소 전까지의 원소를 sum에 더하면 139입니다. 139는 <code>n</code> 값인 139보다 크지 않고 마지막 원소인 100을 더하면 139보다 커지므로 239를 return 합니다.</p></li>
+      </table><div class="highlight"><pre class="codehilite"><code>29를 더한 뒤에 sum 값은 139이고 `n` 값인 123보다 크므로 139를 return 합니다.
+</code></pre></div>
+<ul>
+<li>예제 2번의 <code>numbers</code>의 마지막 원소 전까지의 원소를 sum에 더하면 139입니다. 139는 <code>n</code> 값인 139보다 크지 않고 마지막 원소인 100을 더하면 139보다 커지므로 239를 return 합니다.</li>
 </ul>
 
 
