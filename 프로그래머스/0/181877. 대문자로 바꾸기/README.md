@@ -1,10 +1,10 @@
 # [level 0] 대문자로 바꾸기 - 181877 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181877) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181877?language=python3) 
 
 ### 성능 요약
 
-메모리: 70 MB, 시간: 0.03 ms
+메모리: 9.32 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 12일 00:27:29
+2025년 03월 18일 09:03:56
 
 ### 문제 설명
 
