@@ -1,10 +1,10 @@
 # [level 0] 간단한 논리 연산 - 181917 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181917) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181917?language=python3) 
 
 ### 성능 요약
 
-메모리: 76.6 MB, 시간: 0.02 ms
+메모리: 9.21 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 22일 08:30:33
+2025년 03월 26일 13:06:47
 
 ### 문제 설명
 
@@ -81,7 +81,8 @@
 <hr>
 
 <ul>
-<li><p>∨과 ∧의 진리표는 다음과 같습니다.</p>
+<li>∨과 ∧의 진리표는 다음과 같습니다.</li>
+</ul>
 <table class="table">
         <thead><tr>
 <th>x</th>
@@ -109,14 +110,12 @@
 <td>F</td>
 </tr>
 <tr>
-<td>F</td>
+<td></td>
 <td>F</td>
 <td>F</td>
 <td>F</td>
 </tr>
 </tbody>
-      </table></li>
-</ul>
-
+      </table>
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
