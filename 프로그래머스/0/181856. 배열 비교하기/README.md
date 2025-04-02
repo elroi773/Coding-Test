@@ -1,10 +1,10 @@
 # [level 0] 배열 비교하기 - 181856 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181856) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181856?language=python3) 
 
 ### 성능 요약
 
-메모리: 67.2 MB, 시간: 0.01 ms
+메모리: 9.24 MB, 시간: 0.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 07월 09일 23:50:53
+2025년 04월 02일 22:55:07
 
 ### 문제 설명
 
