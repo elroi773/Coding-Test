@@ -1,10 +1,10 @@
 # [level 0] 공백으로 구분하기 2 - 181868 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181868?language=c) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.12 ms
+메모리: 4.39 MB, 시간: 0.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 04월 26일 21:25:09
+2025년 04월 26일 21:25:49
 
 ### 문제 설명
 
