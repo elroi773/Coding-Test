@@ -1,10 +1,10 @@
 # [level 0] 접미사 배열 - 181909 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181909?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181909?language=python3) 
 
 ### 성능 요약
 
-메모리: 66.1 MB, 시간: 14.51 ms
+메모리: 9.25 MB, 시간: 0.04 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 02일 21:59:37
+2025년 05월 02일 22:00:20
 
 ### 문제 설명
 
