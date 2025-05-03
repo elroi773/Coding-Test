@@ -1,10 +1,10 @@
 # [level 0] rny_string - 181863 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 9.09 MB, 시간: 0.00 ms
+메모리: 62.4 MB, 시간: 10.34 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 03일 21:51:46
+2025년 05월 03일 21:52:35
 
 ### 문제 설명
 
