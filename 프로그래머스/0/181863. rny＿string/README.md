@@ -1,10 +1,10 @@
 # [level 0] rny_string - 181863 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=c) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181863?language=javascript) 
 
 ### 성능 요약
 
-메모리: 4.2 MB, 시간: 0.01 ms
+메모리: 33.4 MB, 시간: 0.08 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 03일 21:50:23
+2025년 05월 03일 21:51:18
 
 ### 문제 설명
 
