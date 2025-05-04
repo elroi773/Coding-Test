@@ -1,10 +1,10 @@
 # [level 0] 왼쪽 오른쪽 - 181890 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181890?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181890?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.07 ms
+메모리: 65 MB, 시간: 25.33 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 05월 04일 21:53:27
+2025년 05월 04일 21:55:02
 
 ### 문제 설명
 
