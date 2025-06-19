@@ -1,10 +1,10 @@
 # [level 0] 수 조작하기 2 - 181925 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181925?language=python3) 
 
 ### 성능 요약
 
-메모리: 69.5 MB, 시간: 8.07 ms
+메모리: 13.3 MB, 시간: 35.53 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 19일 22:31:52
+2025년 06월 19일 22:32:32
 
 ### 문제 설명
 
