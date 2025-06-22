@@ -1,10 +1,10 @@
 # [level 0] 부분 문자열 - 181842 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181842?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181842?language=python3) 
 
 ### 성능 요약
 
-메모리: 33.4 MB, 시간: 0.04 ms
+메모리: 9.19 MB, 시간: 0.00 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 06월 22일 22:30:15
+2025년 06월 22일 22:30:52
 
 ### 문제 설명
 
