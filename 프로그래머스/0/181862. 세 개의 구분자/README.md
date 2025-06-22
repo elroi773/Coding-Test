@@ -1,10 +1,10 @@
 # [level 0] 세 개의 구분자 - 181862 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181862) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181862?language=javascript) 
 
 ### 성능 요약
 
-메모리: 132 MB, 시간: 71.02 ms
+메모리: 59.3 MB, 시간: 28.89 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2024년 08월 15일 00:02:58
+2025년 06월 22일 22:32:10
 
 ### 문제 설명
 
@@ -87,6 +87,10 @@
 <li>"a", "b", "c" 이외의 문자가 존재하지 않습니다. 따라서 저장할 문자열이 없습니다.</li>
 <li>따라서 ["EMPTY"]를 return 합니다.</li>
 </ul>
+
+<hr>
+
+<p>※ 공지 - 2024년 9월 9일 테스트케이스가 추가 되었습니다. 기존에 제출한 코드가 통과하지 못할 수도 있습니다.</p>
 
 
 > 출처: 프로그래머스 코딩 테스트 연습, https://school.programmers.co.kr/learn/challenges
