@@ -1,10 +1,10 @@
 # [level 1] 추억 점수 - 176963 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=python3) 
 
 ### 성능 요약
 
-메모리: 63.5 MB, 시간: 9.18 ms
+메모리: 9.44 MB, 시간: 1.17 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 07월 27일 21:05:30
+2025년 07월 27일 21:06:25
 
 ### 문제 설명
 
