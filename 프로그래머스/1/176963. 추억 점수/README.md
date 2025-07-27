@@ -1,10 +1,10 @@
 # [level 1] 추억 점수 - 176963 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/176963?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 34.2 MB, 시간: 1.67 ms
+메모리: 63.5 MB, 시간: 9.18 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 07월 27일 21:04:25
+2025년 07월 27일 21:05:30
 
 ### 문제 설명
 
