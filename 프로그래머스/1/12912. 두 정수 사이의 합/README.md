@@ -1,10 +1,10 @@
 # [level 1] 두 정수 사이의 합 - 12912 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12912?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 36.6 MB, 시간: 22.73 ms
+메모리: 63.9 MB, 시간: 9.81 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 07월 31일 00:16:04
+2025년 07월 31일 00:17:14
 
 ### 문제 설명
 
