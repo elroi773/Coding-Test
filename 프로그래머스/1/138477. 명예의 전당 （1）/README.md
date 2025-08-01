@@ -1,10 +1,10 @@
 # [level 1] 명예의 전당 (1) - 138477 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/138477?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 36.2 MB, 시간: 21.76 ms
+메모리: 64.5 MB, 시간: 16.05 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 08월 01일 21:01:35
+2025년 08월 01일 21:03:10
 
 ### 문제 설명
 
