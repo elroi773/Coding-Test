@@ -1,10 +1,10 @@
 # [level 1] 콜라 문제 - 132267 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/132267?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 33.5 MB, 시간: 0.41 ms
+메모리: 62.5 MB, 시간: 0.12 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 08월 06일 20:10:48
+2025년 08월 06일 20:11:48
 
 ### 문제 설명
 
