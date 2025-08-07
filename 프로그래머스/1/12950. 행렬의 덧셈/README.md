@@ -1,10 +1,10 @@
 # [level 1] 행렬의 덧셈 - 12950 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12950?language=python) 
 
 ### 성능 요약
 
-메모리: 95.1 MB, 시간: 4.59 ms
+메모리: 33.1 MB, 시간: 25.55 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 08월 08일 00:18:12
+2025년 08월 08일 00:18:55
 
 ### 문제 설명
 
