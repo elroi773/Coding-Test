@@ -1,10 +1,10 @@
 # [level 1] 이상한 문자 만들기 - 12930 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12930?language=python) 
 
 ### 성능 요약
 
-메모리: 66.2 MB, 시간: 19.94 ms
+메모리: 7.84 MB, 시간: 0.07 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 08월 08일 00:24:16
+2025년 08월 08일 00:24:58
 
 ### 문제 설명
 
