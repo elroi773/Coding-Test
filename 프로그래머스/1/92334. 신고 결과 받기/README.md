@@ -1,10 +1,10 @@
 # [level 1] 신고 결과 받기 - 92334 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92334?language=python) 
 
 ### 성능 요약
 
-메모리: 153 MB, 시간: 236.30 ms
+메모리: 47.9 MB, 시간: 209.15 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 09월 20일 22:36:35
+2025년 09월 20일 22:37:35
 
 ### 문제 설명
 
