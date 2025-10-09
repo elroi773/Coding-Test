@@ -1,10 +1,10 @@
 # [level 2] 시소 짝꿍 - 152996 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 39.6 MB, 시간: 15.53 ms
+메모리: 70.3 MB, 시간: 30.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 09일 23:37:53
+2025년 10월 09일 23:39:37
 
 ### 문제 설명
 
