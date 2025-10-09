@@ -1,10 +1,10 @@
 # [level 2] 시소 짝꿍 - 152996 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/152996) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/152996?language=c) 
 
 ### 성능 요약
 
-메모리: 13.1 MB, 시간: 13.37 ms
+메모리: 6.53 MB, 시간: 0.17 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 09일 23:33:51
+2025년 10월 09일 23:35:18
 
 ### 문제 설명
 
