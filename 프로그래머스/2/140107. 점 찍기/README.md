@@ -1,10 +1,10 @@
 # [level 2] 점 찍기 - 140107 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140107) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/140107?language=c) 
 
 ### 성능 요약
 
-메모리: 9.38 MB, 시간: 709.98 ms
+메모리: 4.13 MB, 시간: 11.66 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 12일 23:50:09
+2025년 10월 12일 23:51:12
 
 ### 문제 설명
 
