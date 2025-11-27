@@ -1,10 +1,10 @@
 # [level 2] 2개 이하로 다른 비트 - 77885 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77885?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77885?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 59.7 MB, 시간: 420.78 ms
+메모리: 98.2 MB, 시간: 7.01 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 11월 27일 23:34:55
+2025년 11월 27일 23:35:59
 
 ### 문제 설명
 
