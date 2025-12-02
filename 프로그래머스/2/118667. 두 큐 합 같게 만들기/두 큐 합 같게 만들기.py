@@ -9,11 +9,11 @@ def solution(queue1, queue2):
     total = sum1 + sum2
     
     if total % 2 != 0:
-        return -1  # 합이 홀수면 불가능
+        return -1
     
     target = total // 2
     cnt = 0
-    max_ops = len(q1) * 3  # 안전 마진
+    max_ops = len(q1) * 3  # 최대 시도 횟수, 안전 마진
     
     while cnt <= max_ops:
         if sum1 == target:
