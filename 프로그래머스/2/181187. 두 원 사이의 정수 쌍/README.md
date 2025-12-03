@@ -1,10 +1,10 @@
 # [level 2] 두 원 사이의 정수 쌍 - 181187 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181187?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/181187?language=python3) 
 
 ### 성능 요약
 
-메모리: 61.3 MB, 시간: 27.99 ms
+메모리: 9.15 MB, 시간: 469.32 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 03일 22:53:50
+2025년 12월 03일 22:55:01
 
 ### 문제 설명
 
