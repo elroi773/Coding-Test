@@ -1,10 +1,10 @@
 # [level 2] 순위 검색 - 72412 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72412?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72412?language=python) 
 
 ### 성능 요약
 
-메모리: 205 MB, 시간: 1074.59 ms
+메모리: 42.9 MB, 시간: 1347.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 06일 23:30:59
+2025년 12월 06일 23:31:56
 
 ### 문제 설명
 
