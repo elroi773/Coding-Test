@@ -1,21 +1,12 @@
 def solution(p):
-    # 올바른 괄호 문자열인지 검사
-    def is_correct(s):
-        stack = []
-        for c in s:
-            if c == '(':
-                stack.append(c)
-            else:
-                if not stack:
-                    return False
-                stack.pop()
-        return True
+    return convert(p)
 
-    # p가 빈 문자열이면 그대로 반환
+def convert(p):
+    # 1. 빈 문자열 → 그대로 반환
     if p == "":
         return ""
 
-    # 1. u, v 분리 (u는 가장 앞에서부터 균형잡힌 괄호 문자열)
+    # 2. u, v 분리 (u는 균형잡힌 괄호 문자열)
     balance = 0
     for i in range(len(p)):
         if p[i] == '(':
@@ -23,28 +14,36 @@ def solution(p):
         else:
             balance -= 1
         
-        if balance == 0:   # 균형잡힌 지점 찾음
+        if balance == 0:  # 균형잡힌 지점
             u = p[:i+1]
             v = p[i+1:]
             break
 
-    # 2. u가 올바른 문자열이면, v를 재귀 처리해서 붙임
+    # 3. u가 올바른 문자열인지 확인
     if is_correct(u):
-        return u + solution(v)
+        return u + convert(v)
 
-    # 3. u가 올바르지 않으면 규칙에 따라 새 문자열 생성
-    else:
-        result = "("
-        result += solution(v)
-        result += ")"
+    # 4. u가 올바르지 않으면 규칙대로 새 문자열 생성
+    result = "("
+    result += convert(v)
+    result += ")"
 
-        # u의 첫/마지막 제거 후 뒤집기
-        flipped = ""
-        for c in u[1:-1]:
-            if c == '(':
-                flipped += ')'
-            else:
-                flipped += '('
+    # 4-4. u의 앞/뒤 제거 후 괄호 방향을 뒤집기
+    flipped = ""
+    for c in u[1:-1]:
+        flipped += '(' if c == ')' else ')'
 
-        result += flipped
-        return result
+    return result + flipped
+
+
+# 올바른 괄호 문자열인지 확인하는 함수
+def is_correct(s):
+    stack = []
+    for c in s:
+        if c == '(':
+            stack.append(c)
+        else:
+            if not stack:
+                return False
+            stack.pop()
+    return True
