@@ -1,10 +1,10 @@
 # [level 2] 문자열 압축 - 60057 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60057?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 33.8 MB, 시간: 0.94 ms
+메모리: 62.9 MB, 시간: 6.24 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 09일 23:04:07
+2025년 12월 09일 23:05:38
 
 ### 문제 설명
 
