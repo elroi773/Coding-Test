@@ -1,10 +1,10 @@
 # [level 2] 후보키 - 42890 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42890?language=python) 
 
 ### 성능 요약
 
-메모리: 65.4 MB, 시간: 5.29 ms
+메모리: 8.2 MB, 시간: 6.75 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 11일 22:31:41
+2025년 12월 11일 22:32:18
 
 ### 문제 설명
 
