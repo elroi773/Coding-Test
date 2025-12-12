@@ -1,10 +1,10 @@
 # [level 2] 소수 찾기 - 42839 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42839?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 37.1 MB, 시간: 4.07 ms
+메모리: 71.4 MB, 시간: 48.28 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 12일 21:22:40
+2025년 12월 12일 21:23:28
 
 ### 문제 설명
 
