@@ -1,10 +1,10 @@
 # [level 2] 프로세스 - 42587 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42587?language=python) 
 
 ### 성능 요약
 
-메모리: 63 MB, 시간: 2.88 ms
+메모리: 7.82 MB, 시간: 0.56 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 13일 23:44:20
+2025년 12월 13일 23:45:12
 
 ### 문제 설명
 
