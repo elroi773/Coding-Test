@@ -6,6 +6,7 @@ def solution(clothes):
         clothes_dict[kind] = clothes_dict.get(kind, 0) + 1
 
     answer = 1
+
     # (개수 + 1)씩 곱하기
     for count in clothes_dict.values():
         answer *= (count + 1)
