@@ -1,10 +1,10 @@
 # [level 2] 예상 대진표 - 12985 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12985?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 33.1 MB, 시간: 0.08 ms
+메모리: 63.2 MB, 시간: 0.02 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 18일 21:51:15
+2025년 12월 18일 21:53:07
 
 ### 문제 설명
 
