@@ -1,13 +1,13 @@
 def solution(arr1, arr2):
-    answer = []
-    
-    for i in range(len(arr1)):          # arr1의 행
-        row = []
-        for j in range(len(arr2[0])):   # arr2의 열
-            total = 0
-            for k in range(len(arr2)):  # 공통 차원
-                total += arr1[i][k] * arr2[k][j]
-            row.append(total)
-        answer.append(row)
-    
+    row = len(arr1)
+    col = len(arr2[0])
+    mid = len(arr2)
+
+    answer = [[0] * col for _ in range(row)]
+
+    for i in range(row):
+        for j in range(col):
+            for k in range(mid):
+                answer[i][j] += arr1[i][k] * arr2[k][j]
+
     return answer
