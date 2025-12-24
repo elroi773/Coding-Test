@@ -1,10 +1,10 @@
 # [level 3] 홀짝트리 - 388354 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388354?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/388354?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 222 MB, 시간: 591.27 ms
+메모리: 214 MB, 시간: 315.82 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 24일 22:06:00
+2025년 12월 24일 22:08:00
 
 ### 문제 설명
 
