@@ -1,10 +1,10 @@
 # [level 3] 에어컨 - 214289 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/214289?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 37.9 MB, 시간: 36.05 ms
+메모리: 63.7 MB, 시간: 6.52 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 26일 21:17:44
+2025년 12월 26일 21:19:17
 
 ### 문제 설명
 
