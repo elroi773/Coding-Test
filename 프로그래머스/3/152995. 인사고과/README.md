@@ -1,10 +1,10 @@
 # [level 3] 인사고과 - 152995 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/152995?language=c) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/152995?language=java) 
 
 ### 성능 요약
 
-메모리: 16.1 MB, 시간: 15.20 ms
+메모리: 124 MB, 시간: 76.91 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 28일 21:00:00
+2025년 12월 28일 21:01:02
 
 ### 문제 설명
 
