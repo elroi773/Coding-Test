@@ -1,10 +1,10 @@
 # [level 2] 당구 연습 - 169198 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/169198?language=swift) 
 
 ### 성능 요약
 
-메모리: 62.2 MB, 시간: 0.48 ms
+메모리: 16.8 MB, 시간: 0.45 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 07일 13:08:43
+2025년 12월 30일 19:55:31
 
 ### 문제 설명
 
