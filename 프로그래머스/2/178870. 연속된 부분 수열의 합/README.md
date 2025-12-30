@@ -1,10 +1,10 @@
 # [level 2] 연속된 부분 수열의 합 - 178870 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/178870?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/178870?language=swift) 
 
 ### 성능 요약
 
-메모리: 110 MB, 시간: 15.46 ms
+메모리: 60.7 MB, 시간: 30.42 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 01일 22:34:07
+2025년 12월 30일 19:52:09
 
 ### 문제 설명
 
