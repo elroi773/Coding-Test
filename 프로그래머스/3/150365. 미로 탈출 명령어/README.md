@@ -1,10 +1,10 @@
 # [level 3] 미로 탈출 명령어 - 150365 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/150365?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 38 MB, 시간: 33.68 ms
+메모리: 62.3 MB, 시간: 1.21 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 02일 21:43:40
+2026년 01월 02일 21:44:47
 
 ### 문제 설명
 
