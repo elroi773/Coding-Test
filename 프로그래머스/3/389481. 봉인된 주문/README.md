@@ -1,10 +1,10 @@
 # [level 3] 봉인된 주문 - 389481 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389481?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/389481?language=swift) 
 
 ### 성능 요약
 
-메모리: 129 MB, 시간: 137.84 ms
+메모리: 32.5 MB, 시간: 1231.67 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 12월 24일 21:59:03
+2026년 01월 03일 21:00:16
 
 ### 문제 설명
 
