@@ -1,10 +1,10 @@
 # [level 3] 숫자 타자 대회 - 136797 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136797?language=python3) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/136797?language=swift) 
 
 ### 성능 요약
 
-메모리: 9.51 MB, 시간: 1624.55 ms
+메모리: 16.8 MB, 시간: 544.98 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 03일 20:57:06
+2026년 01월 03일 20:58:10
 
 ### 문제 설명
 
