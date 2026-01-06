@@ -1,10 +1,10 @@
 # [level 2] 유사 칸토어 비트열 - 148652 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/148652) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/148652?language=swift) 
 
 ### 성능 요약
 
-메모리: 9.2 MB, 시간: 178.13 ms
+메모리: 16.4 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 09일 23:51:00
+2026년 01월 06일 21:49:59
 
 ### 문제 설명
 
