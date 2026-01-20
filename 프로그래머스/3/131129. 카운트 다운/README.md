@@ -1,10 +1,10 @@
 # [level 3] 카운트 다운 - 131129 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131129?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131129?language=python3) 
 
 ### 성능 요약
 
-메모리: 64.3 MB, 시간: 46.68 ms
+메모리: 12.7 MB, 시간: 1860.60 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 20일 23:11:05
+2026년 01월 20일 23:14:03
 
 ### 문제 설명
 
