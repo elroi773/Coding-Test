@@ -1,10 +1,10 @@
 # [level 3] 카운트 다운 - 131129 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131129) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/131129?language=c) 
 
 ### 성능 요약
 
-메모리: 16.5 MB, 시간: 1055.13 ms
+메모리: 4.58 MB, 시간: 16.85 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 20일 23:05:25
+2026년 01월 20일 23:06:55
 
 ### 문제 설명
 
