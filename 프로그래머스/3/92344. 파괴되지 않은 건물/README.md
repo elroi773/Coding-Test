@@ -1,10 +1,10 @@
 # [level 3] 파괴되지 않은 건물 - 92344 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92344?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/92344?language=python3) 
 
 ### 성능 요약
 
-메모리: 204 MB, 시간: 61.48 ms
+메모리: 134 MB, 시간: 691.73 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 22일 23:15:27
+2026년 01월 22일 23:16:45
 
 ### 문제 설명
 
