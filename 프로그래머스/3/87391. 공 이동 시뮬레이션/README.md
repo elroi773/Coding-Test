@@ -1,10 +1,10 @@
 # [level 3] 공 이동 시뮬레이션 - 87391 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87391?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/87391?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 131 MB, 시간: 15.74 ms
+메모리: 108 MB, 시간: 15.80 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 23일 23:25:03
+2026년 01월 23일 23:29:10
 
 ### 문제 설명
 
