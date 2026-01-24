@@ -1,10 +1,10 @@
 # [level 3] 표 편집 - 81303 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81303?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/81303?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 124 MB, 시간: 172.65 ms
+메모리: 117 MB, 시간: 158.86 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 24일 23:52:23
+2026년 01월 24일 23:55:29
 
 ### 문제 설명
 
