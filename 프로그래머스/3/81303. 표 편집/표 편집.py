@@ -1,46 +1,43 @@
 def solution(n, k, cmd):
-    # doubly linked list by index
     prev = [i - 1 for i in range(n)]
     nxt  = [i + 1 for i in range(n)]
     nxt[n - 1] = -1
 
     removed = [False] * n
-    stack = []  # (idx, prev_idx, next_idx)
+    stack = []  # (idx, prevIdx, nextIdx)
 
     cur = k
 
     for s in cmd:
-        if s[0] == 'U':
+        op = s[0]
+        if op == 'U':
             x = int(s[2:])
             for _ in range(x):
                 cur = prev[cur]
-        elif s[0] == 'D':
+        elif op == 'D':
             x = int(s[2:])
             for _ in range(x):
                 cur = nxt[cur]
-        elif s[0] == 'C':
+        elif op == 'C':
             removed[cur] = True
-            p, n_ = prev[cur], nxt[cur]
-            stack.append((cur, p, n_))
+            p, nx = prev[cur], nxt[cur]
+            stack.append((cur, p, nx))
 
-            # unlink cur
             if p != -1:
-                nxt[p] = n_
-            if n_ != -1:
-                prev[n_] = p
+                nxt[p] = nx
+            if nx != -1:
+                prev[nx] = p
 
-            # move selection
-            cur = n_ if n_ != -1 else p
+            cur = nx if nx != -1 else p
         else:  # 'Z'
-            idx, p, n_ = stack.pop()
+            idx, p, nx = stack.pop()
             removed[idx] = False
 
-            # relink idx
             if p != -1:
                 nxt[p] = idx
-            if n_ != -1:
-                prev[n_] = idx
+            if nx != -1:
+                prev[nx] = idx
             prev[idx] = p
-            nxt[idx] = n_
+            nxt[idx] = nx
 
     return ''.join('X' if removed[i] else 'O' for i in range(n))
