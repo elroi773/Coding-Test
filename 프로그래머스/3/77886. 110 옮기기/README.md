@@ -1,10 +1,10 @@
 # [level 3] 110 옮기기 - 77886 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/77886?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 78 MB, 시간: 84.42 ms
+메모리: 112 MB, 시간: 110.54 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 25일 20:36:18
+2026년 01월 25일 20:38:18
 
 ### 문제 설명
 
