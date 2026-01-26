@@ -1,10 +1,10 @@
 # [level 3] 카드 짝 맞추기 - 72415 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=python) 
 
 ### 성능 요약
 
-메모리: 63.3 MB, 시간: 15.98 ms
+메모리: 8 MB, 시간: 79.10 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 26일 23:41:36
+2026년 01월 26일 23:43:37
 
 ### 문제 설명
 
