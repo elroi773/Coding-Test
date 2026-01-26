@@ -1,10 +1,10 @@
 # [level 3] 카드 짝 맞추기 - 72415 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/72415?language=javascript) 
 
 ### 성능 요약
 
-메모리: 81.5 MB, 시간: 6.25 ms
+메모리: 39.5 MB, 시간: 10.99 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 26일 23:38:08
+2026년 01월 26일 23:39:36
 
 ### 문제 설명
 
