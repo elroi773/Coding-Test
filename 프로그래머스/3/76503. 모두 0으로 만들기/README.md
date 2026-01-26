@@ -1,10 +1,10 @@
 # [level 3] 모두 0으로 만들기 - 76503 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=swift) 
 
 ### 성능 요약
 
-메모리: 140 MB, 시간: 97.50 ms
+메모리: 106 MB, 시간: 358.89 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 26일 23:30:37
+2026년 01월 26일 23:33:00
 
 ### 문제 설명
 
