@@ -1,10 +1,10 @@
 # [level 3] 모두 0으로 만들기 - 76503 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/76503?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 138 MB, 시간: 249.90 ms
+메모리: 140 MB, 시간: 97.50 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 01월 26일 23:28:39
+2026년 01월 26일 23:30:37
 
 ### 문제 설명
 
