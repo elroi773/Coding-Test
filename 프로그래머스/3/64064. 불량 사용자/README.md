@@ -1,10 +1,10 @@
 # [level 3] 불량 사용자 - 64064 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64064?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/64064?language=python) 
 
 ### 성능 요약
 
-메모리: 67.8 MB, 시간: 18.98 ms
+메모리: 7.73 MB, 시간: 44.77 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 05일 23:25:31
+2026년 02월 05일 23:26:33
 
 ### 문제 설명
 
