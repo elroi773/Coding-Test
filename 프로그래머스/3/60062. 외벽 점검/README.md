@@ -1,10 +1,10 @@
 # [level 3] 외벽 점검 - 60062 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60062?language=swift) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60062?language=cpp) 
 
 ### 성능 요약
 
-메모리: 16.5 MB, 시간: 1773.13 ms
+메모리: 4.43 MB, 시간: 69.58 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 09일 23:52:00
+2026년 02월 09일 23:56:17
 
 ### 문제 설명
 
