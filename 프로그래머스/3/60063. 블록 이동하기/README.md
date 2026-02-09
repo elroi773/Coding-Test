@@ -1,10 +1,10 @@
 # [level 3] 블록 이동하기 - 60063 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60063?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60063?language=python) 
 
 ### 성능 요약
 
-메모리: 68.9 MB, 시간: 11.64 ms
+메모리: 8.91 MB, 시간: 19.34 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 09일 23:05:45
+2026년 02월 09일 23:07:20
 
 ### 문제 설명
 
