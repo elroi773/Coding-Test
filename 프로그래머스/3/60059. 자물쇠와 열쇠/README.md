@@ -1,10 +1,10 @@
 # [level 3] 자물쇠와 열쇠 - 60059 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/60059?language=python) 
 
 ### 성능 요약
 
-메모리: 62.2 MB, 시간: 25.22 ms
+메모리: 7.75 MB, 시간: 418.35 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 11일 22:26:23
+2026년 02월 11일 22:28:11
 
 ### 문제 설명
 
