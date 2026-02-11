@@ -1,10 +1,10 @@
 # [level 3] 가장 먼 노드 - 49189 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49189?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 55.6 MB, 시간: 28.05 ms
+메모리: 85.6 MB, 시간: 21.69 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 12일 00:45:25
+2026년 02월 12일 00:48:07
 
 ### 문제 설명
 
