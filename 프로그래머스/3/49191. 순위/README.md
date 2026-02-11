@@ -1,10 +1,10 @@
 # [level 3] 순위 - 49191 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/49191?language=swift) 
 
 ### 성능 요약
 
-메모리: 66.9 MB, 시간: 9.50 ms
+메모리: 17.5 MB, 시간: 16.37 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 11일 22:34:29
+2026년 02월 11일 22:36:09
 
 ### 문제 설명
 
