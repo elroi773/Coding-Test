@@ -1,10 +1,10 @@
 # [level 3] 네트워크 - 43162 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/43162?language=javascript) 
 
 ### 성능 요약
 
-메모리: 87.8 MB, 시간: 0.18 ms
+메모리: 33.7 MB, 시간: 0.67 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 14일 21:48:03
+2026년 02월 14일 21:48:38
 
 ### 문제 설명
 
