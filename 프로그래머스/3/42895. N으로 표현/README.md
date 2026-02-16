@@ -1,10 +1,10 @@
 # [level 3] N으로 표현 - 42895 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42895) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42895?language=cpp) 
 
 ### 성능 요약
 
-메모리: 10.3 MB, 시간: 17.07 ms
+메모리: 4.17 MB, 시간: 3.79 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 16일 20:47:45
+2026년 02월 16일 20:49:02
 
 ### 문제 설명
 
