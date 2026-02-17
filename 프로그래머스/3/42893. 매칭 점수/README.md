@@ -1,10 +1,10 @@
 # [level 3] 매칭 점수 - 42893 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42893?language=javascript) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42893?language=kotlin) 
 
 ### 성능 요약
 
-메모리: 36.7 MB, 시간: 3.26 ms
+메모리: 63.6 MB, 시간: 10.24 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 17일 21:08:25
+2026년 02월 17일 21:09:42
 
 ### 문제 설명
 
