@@ -1,10 +1,10 @@
 # [level 3] 이중우선순위큐 - 42628 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42628) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=cpp) 
 
 ### 성능 요약
 
-메모리: 21.6 MB, 시간: 567.88 ms
+메모리: 11.7 MB, 시간: 9.51 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 19일 23:54:50
+2026년 02월 19일 23:55:49
 
 ### 문제 설명
 
