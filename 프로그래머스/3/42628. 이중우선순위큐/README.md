@@ -1,10 +1,10 @@
 # [level 3] 이중우선순위큐 - 42628 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=kotlin) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/42628?language=python) 
 
 ### 성능 요약
 
-메모리: 96.7 MB, 시간: 64.21 ms
+메모리: 20 MB, 시간: 128.20 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 02월 20일 00:00:42
+2026년 02월 20일 00:01:44
 
 ### 문제 설명
 
