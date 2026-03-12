@@ -1,10 +1,10 @@
 # [level 3] 선입 선출 스케줄링 - 12920 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12920) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12920?language=cpp) 
 
 ### 성능 요약
 
-메모리: 9.45 MB, 시간: 16.21 ms
+메모리: 3.85 MB, 시간: 1.82 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 12일 21:35:48
+2026년 03월 12일 21:37:59
 
 ### 문제 설명
 
