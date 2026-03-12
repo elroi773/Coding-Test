@@ -1,10 +1,10 @@
 # [level 3] 선입 선출 스케줄링 - 12920 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12920?language=java) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12920?language=javascript) 
 
 ### 성능 요약
 
-메모리: 54.3 MB, 시간: 7.82 ms
+메모리: 37.3 MB, 시간: 30.58 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 12일 21:39:28
+2026년 03월 12일 21:41:23
 
 ### 문제 설명
 
