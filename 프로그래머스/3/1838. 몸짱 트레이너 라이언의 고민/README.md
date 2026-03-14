@@ -1,10 +1,10 @@
 # [level 3] 몸짱 트레이너 라이언의 고민 - 1838 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1838) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1838?language=java) 
 
 ### 성능 요약
 
-메모리: 4.16 MB, 시간: 525.25 ms
+메모리: 385 MB, 시간: 1085.87 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 14일 22:36:58
+2026년 03월 14일 22:40:26
 
 ### 문제 설명
 
