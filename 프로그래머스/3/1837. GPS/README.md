@@ -1,10 +1,10 @@
 # [level 3] GPS - 1837 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1837) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/1837?language=cpp) 
 
 ### 성능 요약
 
-메모리: 97.6 MB, 시간: 36.80 ms
+메모리: 5.13 MB, 시간: 4.37 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2026년 03월 14일 22:43:04
+2026년 03월 14일 22:45:41
 
 ### 문제 설명
 
